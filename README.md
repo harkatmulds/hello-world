@@ -1,2 +1,3 @@
 # hello-world
-Learning Git and Github
+
+Mechanical Enginner senior student who want to learn Git and Github.
